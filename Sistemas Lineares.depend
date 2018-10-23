@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1539552066 source:f:\ctc coisas\sistemas-lineares\main.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	"main.h"
+
+1539551711 f:\ctc coisas\sistemas-lineares\main.h
+
